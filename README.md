@@ -1,7 +1,7 @@
 # Problem 5: Rules Shape Behaviour  
 *(Document is attached in `Problem5_Trosmic_Sports.pdf` for better understanding)*
 
-## Modelling Kabaddi Rules as an Incentive System
+## Modelling Kabaddi Rules as an Incentive System 
 
 Kabaddi rules can be modelled as an incentive system that maps player actions to rewards and penalties under uncertainty. Rather than simply regulating play, rules determine the expected value of actions, thereby shaping risk-taking and strategy.
 
